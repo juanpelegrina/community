@@ -122,3 +122,4 @@ These labels are assigned to the helpdesk issues by the helpdesk team. They will
 * **deployed in reference validator**: The solution was deployed in the production enviroment.
 
 * **wontfix**: This issue will not be worked on.
+
